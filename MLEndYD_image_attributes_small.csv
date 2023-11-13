@@ -1,1 +1,10 @@
-1;2;3;4;5;6
+filename,dish_name,home_or_restaurant,cuisine,ingredients,diet,healthiness_rating,how_much_did_you_like_it,Rice_Chips,Benchmark_A
+00001.jpg,chicken_with_pancakes,restaurant,british,"pancakes,french_fries,chicken,red_cabbage",vegetarian,healthy,dislike,chips,Train
+00002.jpg,fried_chicken_burger_with_fries,restaurant,british,"bread,french_fries,chicken",non-veg,unhealthy,neutral,chips,Test
+00003.jpg,beef_burger_with_fries,restaurant,british,"french_fries,bread,beef",non-veg,unhealthy,like,chips,Train
+00004.jpg,whale_burger,restaurant,norwegian,"bread,french_fries,whale_meat",non-veg,neutral,neutral,chips,Test
+00005.jpg,king_crab,restaurant,norwegian,"french_fries,king_crab,shrimp,lettuce,seaweed",vegetarian,healthy,like,rice,Train
+00006.jpg,fried_chicken_steak,restaurant,british,"french_fries,chicken,cucumbers,tomatoes,lettuce",vegetarian,healthy,dislike,rice,Test
+00007.jpg,chips,home,american,"chips,salt",vegan,unhealthy,like,rice,Train
+00008.jpg,steak,restaurant,british,"chips,steak,tomato,onion,gravy",non-veg,unhealthy,strongly_like,rice,Test
+00009.jpg,grilled_chicken_wrap,restaurant,portuguese,"chips,chicken,lettuce,peri-peri_sauce,halloumi,",non-veg,neutral,strongly_like,chips,Train
