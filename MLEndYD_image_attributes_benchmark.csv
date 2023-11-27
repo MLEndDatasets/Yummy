@@ -372,7 +372,7 @@ onion,carrots,potatoes,vegetable_oil,curry_powder,all-purpose_flour,chicken_stoc
 000328.jpg,non_vegetarian,american,american,double_cheeseburger_saver_meal,mcdonalds,"cheese,tomato_ketchup,mustard,onion,dill_pickle_slice,beef_patty,lettuce,bun,fries,coke",unhealthy,2,dislike,2,Train
 000329.jpg,non_vegetarian,english,english,bacon_sandwich,home,"bread,butter,bacon,brown_sauce",unhealthy,2,dislike,2,Train
 000330.jpg,non_vegetarian,american,american,kfc_chicken,kentucky_fried_chicken,"chicken,potato,batter,gravy,",very_unhealthy,1,like,4,Train
-000331.jpg,,indian,indian,veg_biyani,home,,,,,,Train
+000331.jpg,vegetarian,indian,indian,veg_biyani,home,,,,,,Train
 000332.jpg,vegetarian,indian,indian,paneer_butter_masala,home,"paneer,tomatoes,onions,spices,ginger_garlic_paste,oil",healthy,4,strongly_like,5,Train
 000333.jpg,non_vegetarian,england,british,chicken_jalfrezi_with_pilau_rice,restaurant,"olive_oil,chicken_breast,rice,spicy_curry,onion,tomato,green_pepper,sauce,water",unhealthy,2,dislike,2,Test
 000334.jpg,non_vegetarian,italian,italian,tortelloni,sainsbury,"pasta,chicken,bacon,cheese,olive_oil,breadcrumbs,whey_powder,cumin_powder,garlic_powder,pepper,rosemary",neutral,3,neutral,3,Train
@@ -540,7 +540,7 @@ fresh_cilantro_leaves_for_garnish",very_healthy,5,strongly_like,5,Train
 000443.jpg,non_vegetarian,indian,indian,butter_chikken,restaurant,"chicken_with_a_spiced_tomato_and_butter,water,cream,unsalted_butter,vegetable_oil,sugar,modified_corn_starch,concentrated_tomato_purée,spices,dried_onion,ginger,garlic,salt",healthy,4,dislike,2,Train
 000444.jpg,non_vegetarian,chinese,chinese,hotpot,haidilao_hotpot_london,"duck_blood,tofu,shrimp_paste,bamboo_fungus,beef,chili,etc",neutral,3,strongly_like,5,Train
 000445.jpg,vegan,american,american,chips,home,"chips,salt",unhealthy,2,like,4,Train
-000446.jpg,,korean,korean,rice_cakes,restaurant,"noodles,rice_cakes,cabbage,fish_cakes,creamy_sauce,gochujang",neutral,3,strongly_like,5,Test
+000446.jpg,non_vegetarian,korean,korean,rice_cakes,restaurant,"noodles,rice_cakes,cabbage,fish_cakes,creamy_sauce,gochujang",neutral,3,strongly_like,5,Test
 000447.jpg,non_vegetarian,chinese,chinese,noodles,home,"egg,tomato,noodle,cabbage",very_healthy,5,like,4,Test
 000448.jpg,non_vegetarian,indian,indian,chicken_biryani,home,"chicken_thigh,rice,coriander,black_pepper,bay_leaf,cardamom,cinnamon_stick,green_chillies,onion,tomatoes,ginger-garlic_paste,oil,yogurt,whole_spices,salt,ground_spices,lemon,ghee",healthy,4,like,4,Test
 000449.jpg,non_vegetarian,mediterranean,mediterranean,"rice,chicken_and_vegtables",home,"rice,turmeric,chicken_leg,salt,garlic_powder,onion_powder,smoked_paprika,black_pepper_olive_oil,potato,basil,carrots,zucchini",healthy,4,like,4,Train
@@ -1644,7 +1644,7 @@ green_chili,butter",healthy,4,like,4,Train
 001327.jpg,vegetarian,indian,indian,dhokla,home,"green_chili,mustard_seeds,chickpeas_flour,soda,coriander,salt",healthy,4,strongly_like,5,Train
 001328.jpg,non_vegetarian,indian,indian,chicken_biriyani,home,"basmati_rice,butter,sunflower_oil,onions,bay_leaf,cardamom_pods,cinnamon_stick,turmeric_powder,chicken,red_chilli_powder,rose_water,kewda_water,biryani_masala,chicken_masala,garam_masala,salt,water",healthy,4,strongly_like,5,Train
 001329.jpg,vegetarian,indian,indian,potato_with_chapati,home,"potato,oil,spices,wheat_flour,salt,water",neutral,3,dislike,2,Train
-001330.jpg,,portuguese,portuguese,piri_piri_burger_and_chips,restaurant,"bun,marinated_chicken,potatoe,lettuce,tomatoes",neutral,3,strongly_like,5,Train
+001330.jpg,non_vegetarian,portuguese,portuguese,piri_piri_burger_and_chips,restaurant,"bun,marinated_chicken,potatoe,lettuce,tomatoes",neutral,3,strongly_like,5,Train
 001331.jpg,non_vegetarian,american,american,chicken_strips,home,"chicken_strips,breadcrumbs,eggs,oil",very_unhealthy,1,neutral,3,Train
 001332.jpg,non_vegetarian,chinese,chinese,minced_pork_with_green_beans,home,"pork,green_beans,cabbage,egg,salt,peanut_oil,thai_chilli,chilli_bean_sauce,sesame_seeds",healthy,4,like,4,Train
 001333.jpg,non_vegetarian,chinese,chinese,honey_glazed_sriracha_chicken,home,"chicken,lemon,honey,soy_sauce,ginger,corn_flour,salt,pepper,sesame_seeds",unhealthy,2,strongly_like,5,Train
@@ -2805,7 +2805,7 @@ for_the_tortillas:
 002408.jpg,non_vegetarian,italian,italian,bolognese_spaghetti,spag_bowl(bow),"bolognese_sauce,parmesan_cheese,spaghetti,rucola,",healthy,4,strongly_like,5,Test
 002409.jpg,vegetarian,indian,indian,aloo_matar_curry_with_paratha,home,"potato,peas,wheat_flour,mixed_spices",healthy,4,neutral,3,Train
 002410.jpg,non_vegetarian,italian,italian,tomato_sauce_meatballs_and_bread,home,"basil,onion,cherry_tomatoes,olive_oil,beef_mince_meat,parsley,garlic,salt,pepper,breadcrumbs,water,parmesan_cheese,bread",neutral,3,strongly_like,5,Train
-002411.jpg,,asia,asian,apples,home,,very_healthy,5,neutral,3,Train
+002411.jpg,vegetarian,asia,asian,apples,home,,very_healthy,5,neutral,3,Train
 002412.jpg,vegan,indian,indian,fried_potato,home,"potato,cumin,oil,salt,pepper",unhealthy,2,like,4,Train
 002413.jpg,vegetarian,indian,indian,dal_fry,home,"water,dal,tomato,chilli_powder,vegetable_mix_masala_powder",very_healthy,5,strongly_like,5,Train
 002414.jpg,vegetarian,indian,indian,rasam,home,"tomato,asafoetida,cumin,ginger,curry_leaves,salt,sunflower_oil",very_healthy,5,like,4,Train
